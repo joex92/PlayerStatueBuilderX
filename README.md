@@ -1,5 +1,6 @@
 # PlayerStatueBuilder / SkinStatueBuilder
 SkyTechBytes' Player Statue Builder. Supports basically all skin formats!
+
 # PlayerStatueBuilderX
 ## Description
 Need something to decorate your server? Tired of building player statues by hand? A tad bit conceited? If you answered yes to any of these questions, this player statue builder is perfect for you!
@@ -130,3 +131,6 @@ playerstatuebuilderx.custom:
 ### 1.17 Example
 
 <img src="https://github.com/user-attachments/assets/f481d1c7-3fc4-4166-a28e-c8e882f1eeee" alt="rgbvslab" width="400"/>
+
+## Update
+Updated by JoeX92 using ChatGPT.
