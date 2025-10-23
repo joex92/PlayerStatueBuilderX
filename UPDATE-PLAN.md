@@ -48,7 +48,7 @@ Locate your `<dependencies>` block and change the Spigot API dependency to **1.2
 </dependency>
 ```
 
-**Update bStats (recommended):**
+**Update bStats (optional/recommended):**
 ```xml
 <dependency>
   <groupId>org.bstats</groupId>
